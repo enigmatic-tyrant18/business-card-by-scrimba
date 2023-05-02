@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css"/>  
+    </head>
+    <body>
+        <div class="card" >
+           <img 
+                class="abc" 
+                src="images/AyushBhagat.jpeg" 
+                 alt="Ayush Bhagat smiling at the camera with greenery behind him">
+           <div>
+                <h3>Ayush Bhagat</h3>
+                <p> Frontend Web Developer</p>
+                <h4>Bhowali,Uttarakhand</h4>
+        </div>
+    </div>
+    </body>
+</html>
